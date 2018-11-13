@@ -30,7 +30,7 @@ The further the slashed enemy/object is the more score player will get.
 ## Interesting ideas to add
 
 * Charge the sword by standing in a "stance"
-* Charged sword makes a bigger wave.
+* Charged sword makes a bigger wave and travels further.
 
 
 ## Non-VR games that have it
@@ -44,7 +44,7 @@ The further the slashed enemy/object is the more score player will get.
 Most VR games that include swords are based on medieval times. Although some are based of fictional, having lightsabers 
 instead of swords. But I haven't seen any sword beam-based VR games. But there is this game called Valkyrie Blade VR, 
 where you fight Skyrim-like enemies and if the player hits an enemy a line of swing trace appears. This is shown 
-in the game's second trailer 
+in the game's second trailer (click to watch):
 
 [![Valkyrie Blade VR Trailer 2](https://img.youtube.com/vi/DFM23RavBOM/0.jpg)](https://www.youtube.com/watch?v=DFM23RavBOM "Valkyrie Blade VR Trailer 2")
 
