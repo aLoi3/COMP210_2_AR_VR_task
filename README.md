@@ -45,7 +45,8 @@ Most VR games that include swords are based on medieval times. Although some are
 instead of swords. But I haven't seen any sword beam-based VR games. But there is this game called Valkyrie Blade VR, 
 where you fight Skyrim-like enemies and if the player hits an enemy a line of swing trace appears. This is shown 
 in the game's second trailer 
-[![Everything Is AWESOME](https://img.youtube.com/vi/DFM23RavBOM/0.jpg)](https://www.youtube.com/watch?v=DFM23RavBOM "Everything Is AWESOME")
+
+[![Valkyrie Blade VR Trailer 2](https://img.youtube.com/vi/DFM23RavBOM/0.jpg)](https://www.youtube.com/watch?v=DFM23RavBOM "Valkyrie Blade VR Trailer 2")
 
 
 ## Picture examples
